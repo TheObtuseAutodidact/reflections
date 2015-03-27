@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+  When working on a project with one or more other people, a remote would allow everyone convenient access to 
+  the project. 
+  Additionally, if working on a project from different machines, a remote would keep the project accessible in the cloud.
