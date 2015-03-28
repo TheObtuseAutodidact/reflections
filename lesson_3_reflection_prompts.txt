@@ -21,7 +21,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    If a dev is going to be working offline for a period of time, having the last know state
+    of of a remote lets him/her either work from that point or compare what he/she has done
+    with referece to the most recently submitted work by another/others. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
